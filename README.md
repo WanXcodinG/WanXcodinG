@@ -1,7 +1,7 @@
-[![MasterHead](https://blog.teamtailor.com/hs-fs/hubfs/giphy%20(3).gif?width=500&height=245&name=giphy%20(3).gif)]
+[![MasterHead](https://2.bp.blogspot.com/-HPvsFc4GN5c/Xl6vbG1u5jI/AAAAAAAAOuo/LBRvLnDFqa4tESl64weBBCF568CTVJTAACLcBGAsYHQ/s1600/Podcast_Android_Hero_4209x1253_25%2525.gif)]
 <h1 align="center">Hi 👋, I'm Kurniawan</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXMzMHIwdmpkcTg0NndnYTBzM3c2aDRiNTVwNXU1ZnVzNTMxYndieCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif">
+<img align="right" alt="Coding" width="800" height="200" src="https://user-images.githubusercontent.com/78317220/190580600-edd928b9-0191-4b8a-b1f5-b74fd09a5df4.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kurniawanzaty&label=Profile%20views&color=0e75b6&style=flat" alt="kurniawanzaty" /> </p>
 
@@ -17,4 +17,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kurniawan&show_icons=true&locale=en&layout=compact" alt="kurniawan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kurniawan&show_icons=true&locale=en" alt="kurniawan" /></p>
+<p>&nbsp;<img align="right" width="500" src="https://github-readme-stats.vercel.app/api?username=kurniawan&show_icons=true&locale=en" alt="kurniawan" /></p>
