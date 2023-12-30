@@ -1,4 +1,4 @@
-[![MasterHead](https://tenor.com/gif-maker?caption_item_id=17931459691106086278&utm_source=gif-caption&utm_medium=internal&utm_campaign=gif-maker-entrypoints)] 
+[![MasterHead](https://tenor.com/view/rz-ds-project-gif-24176703)] 
 <h1 align="center">Hi 👋, I'm Kurniawan</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://www.pinterest.com/pin/lottieanimationchainstarters--59813501292017265">
